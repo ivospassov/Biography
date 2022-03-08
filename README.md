@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivospassov
 - 👀 I’m interested in java programming language
-- 🌱 I’m currently learning java and business management
+- 🌱 I’m currently learning Java, JavaScript and business management
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
