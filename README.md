@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ivospassov
-- 👀 I’m interested in java programming language
-- 🌱 I’m currently learning Java, JavaScript and business management
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ivospassov/ivospassov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, fellow programmer 👋! My name is Ivo Spassov, a student in Software University, Sofia. 👀 My interest in programming originates from my study in High School of Electronics 'John Atanasoff'. I have continued to expand my technical competencies and skills in aforementioned university, while studying simulatenously business and languages (English, German and Greek). The purpose is to provide not only technical competence, but also business and communication skills 📫 that will undoubtedly put organisations in 🌱 a more advantageous position.
